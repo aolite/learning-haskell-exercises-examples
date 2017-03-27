@@ -33,7 +33,7 @@ After that, you have to download IHaskell docker file and run it, for example us
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/aolite/learning-haskell-exercises-examples/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -45,7 +45,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Noel Markham** - *Author of the Exercises* - [Learn You a Haskell for Great Good!- Exercises ](https://github.com/noelmarkham/learn-you-a-haskell-exercises)
 * **Aitor Corchero**- *Initial Work and notes of the repository*
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/aolite/learning-haskell-exercises-examples/blob/master/CONTRIBUTORS.md) who participated in this project.
 
 ## License
 This work is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/). 
